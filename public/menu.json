@@ -1,0 +1,484 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://media.gettyimages.com/id/1718516602/photo/close-up-of-a-woman-serving-healthy-breakfast-on-table.jpg?s=612x612&w=0&k=20&c=XCcVxZrVU9Hpxbz4xzpnz85UVaaxtFdPMMFPzTM3pPc=",
+        "category": "salad",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb9",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://www.themediterraneandish.com/wp-content/uploads/2024/12/Mediterraneand-Dish-Baked-Haddock-with-Baby-Bell-Peppers-LEAD-10.jpg",
+        "category": "drinks",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7c",
+        "name": "Escalope de Veau",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://www.atelierdeschefs.fr/_next/image/?url=https%3A%2F%2Fadc-dev-images-recipes.s3.eu-west-1.amazonaws.com%2Fshutterstock_599527067.jpg&w=1920&q=80",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee88",
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://media.gettyimages.com/id/834457924/photo/sydney-dessert.jpg?s=612x612&w=gi&k=20&c=D_8AyNxmMGrNiTkH6pOmMZNnayQ4BeZP272cmdj_IHM=",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7a",
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "data:image/jpeg;base64,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",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee74",
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://i.ibb.co/W5T6Gmj/img3.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee712",
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7x",
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://i.ibb.co/qJCmcpC/img2.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8c",
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://media.gettyimages.com/id/184599041/photo/chocolate-and-orange-cake.jpg?s=612x612&w=0&k=20&c=DWqrlmaXB9uox8lualtxjoyZO2H4GjRqXH2CtdgR-wQ=",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee94",
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://media.gettyimages.com/id/184098729/photo/vegetarian-pizza-03.jpg?s=612x612&w=0&k=20&c=03W_1y9fEfVs_h04DR0S7vaA_u3BXtgLYoXs8TGxF28=",
+        "category": "pizza",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9e",
+        "name": "Breton Fish Stew",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/22/68/e3/cote-brasserie-breton.jpg",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea6",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsvSE6zmCW99htc0NfaTZl3g92Ppia0-Zyyw&s",
+        "category": "salad",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeaf",
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "soup",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee89",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://i.ibb.co/qJCmcpC/img2.png",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8a",
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://i.ibb.co/W5T6Gmj/img3.png",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee96",
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "pizza",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee81",
+        "name": "Tuna Niçoise",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "https://i.ibb.co/qJCmcpC/img2.png",
+        "category": "offered",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee84",
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://i.ibb.co/W5T6Gmj/img3.png",
+        "category": "dessert",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea4",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "salad",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea5",
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://i.ibb.co/qJCmcpC/img2.png",
+        "category": "salad",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee87",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://i.ibb.co/W5T6Gmj/img3.png",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee83",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "offered",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7f",
+        "name": "Roasted Pork Belly",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://i.ibb.co/qJCmcpC/img2.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea8",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://i.ibb.co/W5T6Gmj/img3.png",
+        "category": "salad",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeba",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "drinks",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee80",
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://i.ibb.co/qJCmcpC/img2.png",
+        "category": "offered",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee90",
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://i.ibb.co/W5T6Gmj/img3.png",
+        "category": "dessert",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb0",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "soup",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8d",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://i.ibb.co/qJCmcpC/img2.png",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8e",
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://i.ibb.co/W5T6Gmj/img3.png",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea7",
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://i.ibb.co/qJCmcpC/img2.png",
+        "category": "salad",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee99",
+        "name": "Goats Cheese Pizza",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb3",
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://i.ibb.co/W5T6Gmj/img3.png",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb5",
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb6",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://i.ibb.co/qJCmcpC/img2.png",
+        "category": "soup",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb8",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://i.ibb.co/W5T6Gmj/img3.png",
+        "category": "soup",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7e",
+        "name": "Fish Parmentier",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "popular",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8b",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://i.ibb.co/qJCmcpC/img2.png",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8f",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://i.ibb.co/W5T6Gmj/img3.png",
+        "category": "dessert",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee91",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "dessert",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee97",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://i.ibb.co/qJCmcpC/img2.png",
+        "category": "pizza",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea0",
+        "name": "Roasted Pork Belly",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "https://i.ibb.co/W5T6Gmj/img3.png",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eea9",
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "salad",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee85",
+        "name": "Tuna Niçoise",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "https://media.gettyimages.com/id/1181508292/photo/afternoon-tea-three-tier-stand-of-desserts.jpg?s=612x612&w=0&k=20&c=8_-qY9p11HDWEfJ9hzw4wU3vluGwilfkB-hw4Hi9RbU=",
+        "category": "dessert",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee93",
+        "name": "Tuna Niçoise",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "https://i.ibb.co/W5T6Gmj/img3.png",
+        "category": "pizza",
+        "price": 10.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee95",
+        "name": "Chicken and Walnut Salad",
+        "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGtJkQ846myz2wz2hJUd2lbteJUJ9KEPIwiQ&s",
+        "category": "pizza",
+        "price": 13.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9b",
+        "name": "Goats Cheese Pizza",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb7",
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://files.meilleurduchef.com/mdc/photo/recipe/seafood-parmentier/seafood-parmentier-640.jpg",
+        "category": "soup",
+        "price": 9.5
+    },
+
+    
+    {
+        "_id": "642c155b2c4774f05c36ee9c",
+        "name": "Breton Fish Stew",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9d",
+        "name": "Goats Cheese Pizza",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://www.thursdaynightpizza.com/wp-content/uploads/2022/02/square-1200.png",
+        "category": "pizza",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeac",
+        "name": "Roasted Pork Belly",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "https://thewoksoflife.com/wp-content/uploads/2015/03/cantonese-roast-pork-belly-13-1.jpg",
+        "category": "salad",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb4",
+        "name": "Haddock",
+        "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "soup",
+        "price": 14.7
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee98",
+        "name": "Breton Fish Stew",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVqTj216OYyMbI6o9YCnuASOqg7iWcL5a5nfHaly3bDQ&s",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee82",
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "offered",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee86",
+        "name": "Escalope de Veau",
+        "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "dessert",
+        "price": 12.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee9a",
+        "name": "Breton Fish Stew",
+        "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "pizza",
+        "price": 12.9
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeab",
+        "name": "Goats Cheese Pizza",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://www.baxters.com/static/Beetroot-pizza_220819_153013.jpg",
+        "category": "salad",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb1",
+        "name": "Fish Parmentier",
+        "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqw7AqDNMzEYFh9MhEHB_6sAPYaLGeekw8oA&s",
+        "category": "soup",
+        "price": 9.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eead",
+        "name": "Roast Duck Breast",
+        "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+        "image": "https://i.ibb.co/HCrDdk6/img1.png",
+        "category": "soup",
+        "price": 14.5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeae",
+        "name": "Tuna Niçoise",
+        "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+        "image": "https://media.gettyimages.com/id/1695005275/photo/pumpkin-soup-on-brown-background.jpg?s=612x612&w=0&k=20&c=UuO412AZ3Q1Y1MJ-nG9uV4uFsZTx_5wRfn7jTnjxqrI=",
+        "category": "soup",
+        "price": 10.5
+    }
+]
